@@ -29,7 +29,8 @@ background-color: #000000;
 .jumbotron h1 {
   color: #fff;
   font-size: 48px;  
-  font-family: 'Shift', sans-serif;
+  font-family: Franklin Gothic Book, sans-serif;
+  font-style: italic;
   font-weight: bold;
 }
 
