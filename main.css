@@ -4,9 +4,10 @@ background-color: #000000;
 
 .nav a {
   color: #5a5a5a;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
-  padding: 20px 20px;
+  font-family: Rockwell, sans-serif;
+  padding: 15px 15px;
   text-transform: uppercase;
 }
 
@@ -29,8 +30,7 @@ background-color: #000000;
 .jumbotron h1 {
   color: #fff;
   font-size: 48px;  
-  font-family: Franklin Gothic Book, sans-serif;
-  text-transform: uppercase;
+  font-family: Rockwell, sans-serif;
   font-style: italic;
   font-weight: bold;
 }
