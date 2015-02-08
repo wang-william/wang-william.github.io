@@ -17,6 +17,7 @@ background-color: #000000;
 
 .jumbotron {
   background-image: url("BackgroundPic.jpg");
+  background-color: #000000;
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
