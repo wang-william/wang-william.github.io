@@ -8,7 +8,6 @@ background-color: #000000;
   font-weight: bold;
   font-family: Franklin Gothic Medium, sans-serif;
   padding: 15px 15px;
-  background-color: #000000;
   text-transform: uppercase;
 }
 
@@ -27,7 +26,7 @@ background-color: #000000;
 .jumbotron .container {
   position: relative;
   top:200px;
-  background-color: #000000;
+
 }
 
 .jumbotron h1 {
